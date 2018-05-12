@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5245
     wikipedia: http://en.wikipedia.org/wiki/Jules_Amédée_Barbey_d'Aurevilly
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40694#Philosophes-et--crivains-Religieux
 gutenberg_bookshelf: FR Philosophie, Religion et Morale
 gutenberg_issued: '2012-09-06'
 gutenberg_type: Text
